@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovile.DB", "Innovile.DB\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovile.Net", "Innovile.Net\Innovile.Net.csproj", "{033BE49E-74F1-4D60-BECF-8C7545ADAE1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovile.Security", "Innovile.Security\Innovile.Security.csproj", "{C1F0BE21-63DF-4AEE-912E-33D65AFAD8C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{033BE49E-74F1-4D60-BECF-8C7545ADAE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033BE49E-74F1-4D60-BECF-8C7545ADAE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033BE49E-74F1-4D60-BECF-8C7545ADAE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F0BE21-63DF-4AEE-912E-33D65AFAD8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F0BE21-63DF-4AEE-912E-33D65AFAD8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F0BE21-63DF-4AEE-912E-33D65AFAD8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F0BE21-63DF-4AEE-912E-33D65AFAD8C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
