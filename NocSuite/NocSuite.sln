@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovile.Geo", "Innovile.Geo\Innovile.Geo.csproj", "{80B4EBF0-334E-4B6B-A15A-C70A5128885A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovile.Core", "Innovile.Core\Innovile.Core.csproj", "{21754257-34DB-446A-9C60-514731DB91CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80B4EBF0-334E-4B6B-A15A-C70A5128885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B4EBF0-334E-4B6B-A15A-C70A5128885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B4EBF0-334E-4B6B-A15A-C70A5128885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21754257-34DB-446A-9C60-514731DB91CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21754257-34DB-446A-9C60-514731DB91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21754257-34DB-446A-9C60-514731DB91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21754257-34DB-446A-9C60-514731DB91CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
